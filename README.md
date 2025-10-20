@@ -12,17 +12,32 @@ Soy un desarrollador apasionado por la creación de soluciones tecnológicas y e
 
 ### 🛠️ **Mi Stack Tecnológico**
 
-Aquí están algunas de las tecnologías con las que trabajo regularmente:
+Aquí están algunas de las tecnologías con las que trabajo, agrupadas por categoría:
 
 <p align="left">
+  <strong>Frontend Core</strong><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,express,html,css,tailwind,prisma,postgresql,git,github,vscode,postman,discord" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
   </a>
 </p>
-
-<br>
-
----
+<p align="left">
+  <strong>Full-Stack & TypeScript</strong><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=typescript,nextjs,tailwind,nodejs" />
+  </a>
+</p>
+<p align="left">
+  <strong>Backend & Base de Datos</strong><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=express,prisma,postgresql,postman" />
+  </a>
+</p>
+<p align="left">
+  <strong>Herramientas y Plataformas</strong><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,discord" />
+  </a>
+</p>
 
 ### 🌱 **Actualmente Estoy Aprendiendo**
 
