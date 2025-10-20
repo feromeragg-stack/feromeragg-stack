@@ -56,10 +56,10 @@ Siempre busco mejorar mis habilidades. En este momento estoy enfocado en:
 Estoy abierto a nuevas oportunidades y colaboraciones. ¡Conectemos!
 
 <p align="left">
-  <a href=[https://www.linkedin.com/in/fernando-romera-033558384/] target="_blank">
+  <a href="https://www.linkedin.com/in/fernando-romera-033558384/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=[feromeragg@gmail.com]&su=Contacto%20desde%20GitHub" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to="feromeragg@gmail.com&su=Contacto%20desde%20GitHub" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
