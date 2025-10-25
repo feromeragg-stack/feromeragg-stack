@@ -39,7 +39,7 @@ Aquí están algunas de las tecnologías con las que trabajo, agrupadas por cate
   </a>
 </p>
 
-### 🌱 **Actualmente Estoy Aprendiendo**
+### 🌱 **Actualmente Estoy Desarrollando**
 
 Siempre busco mejorar mis habilidades. En este momento estoy enfocado en:
 
